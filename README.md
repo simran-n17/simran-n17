@@ -20,9 +20,9 @@ Here are some technologies and tools I’ve worked with:
 
 - **Cloud**: AWS (EC2, S3, Lambda, etc.)
 - **Programming Languages**: Java, Python, JavaScript
-- **Web Development**: HTML, CSS, JavaScript, React
+- **Web Development**: HTML, CSS, JavaScript
 - **DevOps**: Docker (currently learning)
-- **Tools**: Git, VS Code, IntelliJ IDEA
+- **Tools**: Git, VS Code, Eclipse
 
 ---
 

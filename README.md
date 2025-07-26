@@ -1,47 +1,44 @@
-# Hi there, I'm Simran Negi 👋
+# 👋 Hi, I'm Simran Negi
 
-<!--
-**simran-n17/simran-n17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-## About Me
-- 🎓 Pursuing **B.Tech in CSE (CCVT)**.
-- 🌱 Currently learning **Docker** and exploring DevOps tools.
-- 💻 Worked on **AWS Services**, **Java**, and **Web Development**.
-- 🔭 Seeking an **internship** to apply my skills and grow in the tech industry.
-- 📫 How to reach me: **[nsimran2005@gmail.com](mailto:nsimran2005@gmail.com)**.
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I love solving problems and turning ideas into reality through code!
+🎓 B.Tech CSE (Specialization in Cloud Computing & Virtualization)  
+🔧 Passionate about Cloud, Java, Docker, and Web Development  
+📈 Eager to build scalable solutions and grow in the tech industry  
+📬 Reach me at: [nsimran2005@gmail.com](mailto:nsimran2005@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
-Here are some technologies and tools I’ve worked with:
+## 🚀 Skills & Technologies
 
-- **Cloud**: AWS (EC2, S3, Lambda, etc.)
-- **Programming Languages**: Java, Python, JavaScript
-- **Web Development**: HTML, CSS, JavaScript
-- **DevOps**: Docker (currently learning)
-- **Tools**: Git, VS Code, Eclipse
+- **Cloud Platforms:** AWS (EC2, S3, Lambda)
+- **Languages:** Java, Python, JavaScript
+- **DevOps & Tools:** Docker, Git, GitHub, VS Code, Eclipse
+- **Web Development:** HTML, CSS, JavaScript
 
 ---
 
-## 📈 GitHub Stats
-![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simran-n17&show_icons=true&theme=radical)
+## 💼 Featured Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simran-n17&layout=compact&theme=radical)
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Online Reservation System](https://github.com/simran-n17/Online-Reservation-System) | A web-based ticket booking platform. | Java, MySQL, JSP |
+| [Online Examination System](https://github.com/simran-n17/Online-Examination-System) | A digital exam portal with result generation. | Java, HTML, CSS |
 
----
-
-## 🔥 Extra 
-- 🚀 Always eager to learn new technologies and contribute to open-source projects.
-- 💡 Passionate about building scalable and efficient solutions.
-- 🌟 Fun fact: I believe in the power of collaboration and teamwork to achieve great things!
+> 🛠️ *More projects available on my [GitHub Repositories](https://github.com/simran-n17?tab=repositories).*
 
 ---
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/simran-negi-514868249/) <!-- Add your LinkedIn profile link -->
+## 📊 GitHub Stats
+
+![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simran-n17&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simran-n17&layout=compact&theme=default)
+
 ---
 
-⭐️ From [Simran Negi](https://github.com/simran-n17)
+## 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/simran-negi-514868249/)
+- [GitHub](https://github.com/simran-n17)
+
+---
+
+_Thank you for visiting my profile!_

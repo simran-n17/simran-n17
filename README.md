@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack
 
 **Cloud:** AWS (EC2, S3, Lambda)  
-**Language:** Java 
+**Language:** Java
 **DevOps:** Docker, Git  
 **Web:** HTML, CSS, JS  
 **Tools:** VS Code, Eclipse
